@@ -1,0 +1,11 @@
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.vbprojAssemblyReference.cache
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.Form1.resources
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.Resources.resources
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.vbproj.GenerateResource.cache
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\bin\Debug\Deck.exe.config
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\bin\Debug\Deck.exe
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\bin\Debug\Deck.pdb
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\bin\Debug\Deck.xml
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.exe
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.xml
+C:\Users\mity_\OneDrive\Documents\Programming\Deck\obj\Debug\Deck.pdb
